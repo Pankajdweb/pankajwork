@@ -64,3 +64,5 @@ window.addEventListener("load", function () {
     }
   }
 });
+
+// Updated code
